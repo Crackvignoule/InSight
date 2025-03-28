@@ -1,4 +1,4 @@
-package com.example.insight;
+package com.killianpavy.insight;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.insight", appContext.getPackageName());
+        assertEquals("com.killianpavy.insight", appContext.getPackageName());
     }
 }

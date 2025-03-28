@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.insight"
+    namespace = "com.killianpavy.insight"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.insight"
+        applicationId = "com.killianpavy.insight"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
@@ -38,4 +38,6 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+
+    implementation(libs.volley)
 }

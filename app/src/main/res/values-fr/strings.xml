@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_message">Découvrez chaque jour les astéroids en approche de la Terre</string>
+    <string name="start">Commencer</string>
+    <string name="sol_number">Nb d\'sols</string>
+    <string name="dist">distance</string>
+    <string name="magnitude">magnitude</string>
+    <string name="period">période</string>
+</resources>

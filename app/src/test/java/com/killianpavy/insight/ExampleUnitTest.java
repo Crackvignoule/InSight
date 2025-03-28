@@ -1,4 +1,4 @@
-package com.example.insight;
+package com.killianpavy.insight;
 
 import org.junit.Test;
 
